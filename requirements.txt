@@ -1,0 +1,13 @@
+# Phase 1 — Data Understanding, Cleaning, EDA, Statistical Analysis, Feature Engineering
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jupyter
+
+# Phase 2 — Machine Learning (uncomment when starting Phase 2)
+# scikit-learn
+# xgboost
+# imbalanced-learn
+# shap
